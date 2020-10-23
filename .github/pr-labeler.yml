@@ -1,0 +1,5 @@
+feature: ['feature/*', 'feat/*']
+fix: ['fix/*', 'hotfix/*']
+chore: chore/*
+release: release/*
+# https://github.com/TimonVS/pr-labeler-action
